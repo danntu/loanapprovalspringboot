@@ -1,0 +1,12 @@
+server:
+  port: 8181
+camunda:
+  bpm:
+    admin-user:
+      id: danntu
+      password: Danntu1986
+      first-name: Daniyar
+      last-name: Myrzakanov
+      email: dan_ntu@mail.ru
+    filter:
+      create: Danik create test filter
